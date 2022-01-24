@@ -1,0 +1,17 @@
+#include <stdio.h>
+void main()
+{
+    int a[5],size,i;
+    printf("enter the size of an array:");
+    scanf("%d",&size);
+    printf("enter %d the array elements:\n",size);
+    for(i=0;i<=size;i++)
+    {
+        scanf("%d",&a[i]);
+    }
+    printf("reverse array elements are:\n");
+    for(i=size;i>=0;i--)
+    {
+        printf("%d",a[i]);
+    }
+}
