@@ -1,0 +1,12 @@
+#include <stdio.h>
+void addone(int *p){
+    (*p)++;
+}
+int main()
+{
+    int  *p,i=10;
+    p=&i;
+    addone(p);
+    printf("%d",*p);
+    return 0;
+}
