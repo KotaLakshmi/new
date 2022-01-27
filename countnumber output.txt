@@ -1,0 +1,16 @@
+enter the number of lines to be written:3
+the lines are:
+the next line
+the next line
+the next line
+the content of file test2.txt is:
+
+the next line
+the next line
+the next line
+
+ the number of words in the file test2.txt are:9
+the number of characters in the file test2.txt are:33
+
+Process returned 0 (0x0)   execution time : 31.827 s
+Press any key to continue.
