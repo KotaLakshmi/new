@@ -1,0 +1,8 @@
+Input the 1st file name : test1.txt
+ Input the 2nd file name : test2.txt
+ Input the new file name where to merge the above two files : test3.text
+ The two files merged into test3.text file successfully..!!
+
+
+Process returned 0 (0x0)   execution time : 27.146 s
+Press any key to continue.
