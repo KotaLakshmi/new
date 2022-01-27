@@ -1,0 +1,17 @@
+enter the number of lines to be written:3
+the lines are:
+the file name1
+the file name2
+the file name3
+the content of file test.txt is:
+
+the file name1
+the file name2
+the file name3
+
+
+
+Process returned 0 (0x0)   execution time : 35.270 s
+Press any key to continue.
+
+
