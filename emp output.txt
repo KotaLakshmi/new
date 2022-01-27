@@ -1,0 +1,33 @@
+Enter the name:
+lakshmi
+Enter the age:
+20
+Enter the salary:
+1000
+Enter the name:
+rani
+Enter the age:
+22
+Enter the salary:
+2000
+Enter the name:
+raja
+Enter the age:
+21
+Enter the salary:
+3000
+Enter the name:
+jack
+Enter the age:
+24
+Enter the salary:
+4000
+Enter the name:
+ravi
+Enter the age:
+26
+Enter the salary:
+3000
+
+Process returned 0 (0x0)   execution time : 65.641 s
+Press any key to continue.
