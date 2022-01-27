@@ -1,0 +1,8 @@
+Input the name of file to delete : test4.txt
+ The file test4.txt is deleted successfully..!!
+
+
+Process returned 49 (0x31)   execution time : 7.759 s
+Press any key to continue.
+
+
